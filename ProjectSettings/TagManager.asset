@@ -41,11 +41,20 @@ TagManager:
   - name: background
     uniqueID: 991796683
     locked: 0
+  - name: grass
+    uniqueID: 2813278989
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
   - name: mushroom
     uniqueID: 610883511
+    locked: 0
+  - name: plants
+    uniqueID: 2884964061
+    locked: 0
+  - name: rocks
+    uniqueID: 834450283
     locked: 0
   - name: lilguy
     uniqueID: 3238023587

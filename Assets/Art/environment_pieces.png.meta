@@ -105,15 +105,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: shroom_cap_0
+      name: plant_1
       rect:
         serializedVersion: 2
-        x: 980
-        y: 1956
-        width: 1511
-        height: 782
+        x: 139
+        y: 2659
+        width: 1108
+        height: 1821
       alignment: 9
-      pivot: {x: 0.50941706, y: 0.26117736}
+      pivot: {x: 0.52242714, y: 0.045020416}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,36 +126,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: shroom_stem_0
-      rect:
-        serializedVersion: 2
-        x: 1427
-        y: 1156
-        width: 519
-        height: 788
-      alignment: 9
-      pivot: {x: 0.5300874, y: 0.16933446}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c919df4332f806a44b8f0774feb24b09
-      internalID: -237850076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: shroom_cap_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1231
-        width: 1278
-        height: 722
+        x: 48
+        y: 1351
+        width: 1085
+        height: 558
       alignment: 9
-      pivot: {x: 0.49999994, y: 0.26499736}
+      pivot: {x: 0.50804245, y: 0.18197183}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -171,12 +150,12 @@ TextureImporter:
       name: shroom_stem_1
       rect:
         serializedVersion: 2
-        x: 190
-        y: 118
-        width: 613
-        height: 847
+        x: 187
+        y: 101
+        width: 623
+        height: 874
       alignment: 9
-      pivot: {x: 0.5427837, y: 0.15939865}
+      pivot: {x: 0.6173622, y: 0.10393809}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -192,12 +171,12 @@ TextureImporter:
       name: shroom_cap_2
       rect:
         serializedVersion: 2
-        x: 812
-        y: 308
-        width: 1166
-        height: 839
+        x: 908
+        y: 477
+        width: 987
+        height: 529
       alignment: 9
-      pivot: {x: 0.5163234, y: 0.26755142}
+      pivot: {x: 0.5099818, y: 0.21106926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -213,12 +192,12 @@ TextureImporter:
       name: shroom_stem_2
       rect:
         serializedVersion: 2
-        x: 1985
+        x: 1976
         y: 52
-        width: 440
+        width: 449
         height: 832
       alignment: 9
-      pivot: {x: 0.51192075, y: 0.1721712}
+      pivot: {x: 0.49999946, y: 0.07518207}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,6 +205,153 @@ TextureImporter:
       bones: []
       spriteID: 71be83cf71aafd64cbc425f3049a7c19
       internalID: 578272304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock1
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2893
+        width: 1132
+        height: 930
+      alignment: 9
+      pivot: {x: 0.49698848, y: 0.20894264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1699b91fb6fdcc4eaec01f45c045337
+      internalID: 1060032896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock2
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 3343
+        width: 1233
+        height: 1058
+      alignment: 9
+      pivot: {x: 0.51105917, y: 0.13210915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0503abe5b9551c94aad9b27d3d16b8ab
+      internalID: 736167858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock3
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 3142
+        width: 1009
+        height: 1057
+      alignment: 9
+      pivot: {x: 0.528722, y: 0.10510219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72a85da88e12e448a5b3ecb4c3a0aa
+      internalID: 1658268844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant2
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1242
+        width: 2034
+        height: 1714
+      alignment: 9
+      pivot: {x: 0.5272327, y: 0.21199974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58accd8ae6bfc6e4f84006ff1507149a
+      internalID: 1363901417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant3
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 91
+        width: 2350
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.94179815, y: 0.504338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7e3ddd7d1841428096097b74d7527
+      internalID: -1988111348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroom_cap_0
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2021
+        width: 1121
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5182215, y: 0.2695125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0c1609c4a17142aa9dd81c04524e7
+      internalID: 149247570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shroom_stem_0
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1129
+        width: 556
+        height: 821
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.09238596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beea1d38114da347b00861f13ecc79a
+      internalID: -237850076
       vertices: []
       indices: 
       edges: []
@@ -243,18 +369,25 @@ TextureImporter:
     - texture: {fileID: 2800000, guid: 939603f5e0f0dd9488127da01b94a76f, type: 3}
       name: _Emissive
     nameFileIdTable:
+      environment_pieces_7: 1678268466
       shroom_cap_2: 267610851
       shroom_stem_1: -1398749260
-      shroom_cap_0: 1342769564
-      environment_pieces_3: 1363901417
-      shroom_stem_0: -237850076
+      environment_pieces_9: 1531121071
+      plant3: -1988111348
+      shroom_cap_0: 149247570
+      rock2: 736167858
+      plant2: 1363901417
+      environment_pieces_1: 1648099749
+      rock3: 1658268844
+      environment_pieces_0: -735534931
+      environment_pieces_3: 2038217158
+      rock1: 1060032896
+      shroom_stem_0: -1441789230
       shroom_stem_2: 578272304
+      plant_1: 1342769564
       environment_pieces_8: 1616562416
-      environment_pieces_6: 149247570
       shroom_cap_1: 705361826
-      environment_pieces_2: 1658268844
-      environment_pieces_5: -1988111348
-      environment_pieces_4: -1441789230
+      environment_pieces_2: -1418089476
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
