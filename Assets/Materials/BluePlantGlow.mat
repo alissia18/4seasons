@@ -42,7 +42,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Factor: 1
+    - _Factor: 0.46
     m_Colors:
     - _GlowColor: {r: 5.5678186, g: 8.804075, b: 51.320755, a: 0.92156863}
   m_BuildTextureStacks: []
